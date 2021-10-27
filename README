@@ -1,0 +1,12 @@
+Pour ce TP, j'ai rencontré pas mal de difficultés, c'est surement un de ceux qui m'a pris le plus de temps à faire pour les raisons suivantes :
+Pour commencer les positions, avec le démarquage du terrain, le keeper que devait être placé pile au milieu des buts,
+pour faire tout ça il fallait donc repérer ou tout était placé afin de bien pouvoir positionner tout le reste.
+Pour se faire, j'ai donc opté pour l'option de lancer un premier test afin de pouvoir bien tout repérer et tout placer.
+Ensuite il y avait tous les calculs de trajectoire lors d'un passement de balle avec par exemple la ditance, 
+est ce que la balle va en diagonale, tout droit, derriere etc ...
+Il y avait d'autre difficultés comme reussir a distinguer qu'est ce que chacun doit faire, comprendre tous les 
+attirbuts, toutes les fonctions etc ...
+Dans le gros, c'est ce qui m'a causé le plus de problemes, après il y avait d'autres éléments mais plus classique
+comme des erreurs dans mes fonctions avec des récursions infinies etc ... Mais pour lesquelles on commence à s'habituer
+a force de les rencontrer a chaque TP.
+Voila voila, bonne lecture, bonne correction !
